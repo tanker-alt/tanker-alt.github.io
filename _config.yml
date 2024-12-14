@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tan Ke / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tan Ke"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://tanker-alt.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "tanker-alt/tanker-alt.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Beijing university of post and telecommunication"
   location         : "Beijing"
-  employer         : "Red Brick University"
+  employer         :
   uri              : # URL
   email            : "1371898362@qq.com" 
 
